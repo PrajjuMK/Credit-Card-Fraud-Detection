@@ -6,4 +6,6 @@ Set Up ->
 
 `Install` = Anaconda(Jupyter) / colaboratory
 
+`Dataset` = "https://www.kaggle.com/mlg-ulb/creditcardfraud/data"
+
 `ML Models` = LogisticRegression, RandomForest Classifier, Naive Baiye Classifier
